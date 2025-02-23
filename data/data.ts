@@ -17,7 +17,8 @@ export const projects = [
   {
     title: "Enterprise SaaS Platform",
     description: "Cloud-based workflow automation serving 50K+ daily users",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://codebynikhil.pages.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdd9ewxj3i%2Fimage%2Fupload%2Fv1734268543%2Fprojects%2520images%2Fravenboost%2Frb-home.png&w=1920&q=75",
     category: "Web Development",
     stats: {
       users: "50K+",
@@ -29,7 +30,8 @@ export const projects = [
     title: "AI-Powered Analytics",
     description:
       "Real-time business intelligence dashboard with ML capabilities",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://codebynikhil.pages.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdd9ewxj3i%2Fimage%2Fupload%2Fv1734268543%2Fprojects%2520images%2Fravenboost%2Frb-home.png&w=1920&q=75",
     category: "Machine Learning",
     stats: {
       accuracy: "98%",
@@ -40,7 +42,8 @@ export const projects = [
   {
     title: "IoT Management System",
     description: "Scalable IoT platform managing 100K+ connected devices",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://codebynikhil.pages.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdd9ewxj3i%2Fimage%2Fupload%2Fv1734268543%2Fprojects%2520images%2Fravenboost%2Frb-home.png&w=1920&q=75",
     category: "IoT",
     stats: {
       devices: "100K+",
@@ -51,7 +54,8 @@ export const projects = [
   {
     title: "E-Commerce Platform",
     description: "High-performance online store with advanced analytics",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://codebynikhil.pages.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdd9ewxj3i%2Fimage%2Fupload%2Fv1734268543%2Fprojects%2520images%2Fravenboost%2Frb-home.png&w=1920&q=75",
     category: "E-Commerce",
     stats: {
       sales: "$10M+",
@@ -62,7 +66,8 @@ export const projects = [
   {
     title: "Healthcare Management",
     description: "Comprehensive patient care and hospital management system",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://codebynikhil.pages.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdd9ewxj3i%2Fimage%2Fupload%2Fv1734268543%2Fprojects%2520images%2Fravenboost%2Frb-home.png&w=1920&q=75",
     category: "Healthcare",
     stats: {
       patients: "1M+",
@@ -73,7 +78,8 @@ export const projects = [
   {
     title: "FinTech Solution",
     description: "Secure financial transaction and analysis platform",
-    image: "/api/placeholder/800/600",
+    image:
+      "https://codebynikhil.pages.dev/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdd9ewxj3i%2Fimage%2Fupload%2Fv1734268543%2Fprojects%2520images%2Fravenboost%2Frb-home.png&w=1920&q=75",
     category: "Finance",
     stats: {
       transactions: "$500M+",
