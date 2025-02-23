@@ -7,6 +7,8 @@ import React, { useState } from "react";
 const ProjectSection = () => {
   const [hoveredProject, setHoveredProject] = useState<number | null>(null);
 
+  console.log(hoveredProject);
+
   return (
     <section className="relative bg-black py-24 overflow-hidden">
       {/* Grid Background */}
