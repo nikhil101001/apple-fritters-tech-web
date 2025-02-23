@@ -63,8 +63,8 @@ const ContactSection = () => {
             Contact Us
           </h2>
           <p className="text-white/70 max-w-2xl mx-auto text-lg">
-            Have a project in mind? Let's discuss how we can help bring your
-            ideas to life.
+            Have a project in mind? Let&apos;s discuss how we can help bring
+            your ideas to life.
           </p>
         </div>
 
@@ -73,7 +73,7 @@ const ContactSection = () => {
           <div className="space-y-8">
             <div className="bg-white/5 backdrop-blur-sm rounded-lg p-8 border border-white/10">
               <h3 className="text-2xl font-semibold text-white mb-6">
-                Let's Connect
+                Let&apos;s Connect
               </h3>
               <div className="space-y-6">
                 <a

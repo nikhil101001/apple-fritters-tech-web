@@ -33,8 +33,8 @@ const ReviewSection = () => {
             What Our Clients Say
           </h2>
           <p className="text-white/70 max-w-2xl mx-auto text-lg">
-            Don't just take our word for it. Here's what our clients have to say
-            about their experience working with us.
+            Don&apos;t just take our word for it. Here&apos;s what our clients
+            have to say about their experience working with us.
           </p>
         </div>
 
