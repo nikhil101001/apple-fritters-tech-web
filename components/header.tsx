@@ -8,6 +8,8 @@ const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
+  console.log("scrolled", scrolled);
+
   // Handle scroll effect
   useEffect(() => {
     const handleScroll = () => {
