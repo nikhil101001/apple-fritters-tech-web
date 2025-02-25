@@ -27,6 +27,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        {/* <div className="fixed top-0 -z-20 h-screen w-screen bg-[url('/grid-bg.jpg')] bg-contain bg-repeat" /> */}
         {children}
       </body>
     </html>
