@@ -41,7 +41,7 @@ const HeroSection = () => {
   return (
     <section
       ref={sectionRef}
-      className="relative min-h-screen flex items-center justify-center overflow-hidden bg-black pt-10"
+      className="relative min-h-[90vh] flex items-center justify-center overflow-hidden bg-black pt-10"
     >
       {/* Animated Grid Background */}
       <div
